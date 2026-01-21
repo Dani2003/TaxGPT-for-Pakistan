@@ -35,7 +35,7 @@ AI-powered tax filing system using RAG, OCR, and FBR tax rules automation.
 
 1. Clone repository:
 \\\ash
-git clone https://github.com/Dani2003/tax-automation-pk.git
+git clone [(https://github.com/Dani2003/TaxGPT-for-Pakistan.git)]
 cd tax-automation-pk/backend
 \\\
 

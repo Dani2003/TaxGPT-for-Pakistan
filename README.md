@@ -103,7 +103,7 @@ http://localhost:8000/docs
 
 **Student:** Abdul Bari (2022-LSC-04)  
 **Supervisor:** Mr. Mohsin (NetSol Technologies)  
-**Institution:** Superior College / FCIT Punjab University  
+**Institution:** SABAC AFFILIATED WITH UNIVERSITY OF THE PUNJAB 
 **Duration:** 24 weeks  
 
 **Project Objectives:**
